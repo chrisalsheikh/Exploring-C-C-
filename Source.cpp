@@ -18,8 +18,8 @@ public:
 	}
 
 	string make, model, type;		// make and model of automobile
-	int year;						// year 
-	float safetyRating;				// safety rating
+	int year;				// year 
+	float safetyRating;			// safety rating
 };
 
 int main() {
